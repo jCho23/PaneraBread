@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{2CD04B28-D2BD-4C52-9B11-54D5B4FFABFF}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PaneraBread/Tests.cs">
+    <Files>
+      <File FileName="PaneraBread/Tests.cs" Line="28" Column="3" />
+      <File FileName="PaneraBread/AppInitializer.cs" Line="29" Column="57" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="PaneraBread" expanded="True">
+            <Node name="PaneraBread" expanded="True">
+              <Node name="PaneraBread" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True">
+                    <Node name="FirstTest" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PaneraBread PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
